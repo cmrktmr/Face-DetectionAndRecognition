@@ -1,0 +1,31 @@
+C:\Users\MR\Desktop\#C#\Face Detection And Recognition System\Face Detection And Recognition System\bin\Debug\Face Detection And Recognition System.exe.config
+C:\Users\MR\Desktop\#C#\Face Detection And Recognition System\Face Detection And Recognition System\bin\Debug\Face Detection And Recognition System.exe
+C:\Users\MR\Desktop\#C#\Face Detection And Recognition System\Face Detection And Recognition System\bin\Debug\Face Detection And Recognition System.pdb
+C:\Users\MR\Desktop\#C#\Face Detection And Recognition System\Face Detection And Recognition System\bin\Debug\MetroFramework.dll
+C:\Users\MR\Desktop\#C#\Face Detection And Recognition System\Face Detection And Recognition System\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\MR\Desktop\#C#\Face Detection And Recognition System\Face Detection And Recognition System\obj\Debug\Face Detection And Recognition System.csprojResolveAssemblyReference.cache
+C:\Users\MR\Desktop\#C#\Face Detection And Recognition System\Face Detection And Recognition System\obj\Debug\Face_Detection_And_Recognition_System.Properties.Resources.resources
+C:\Users\MR\Desktop\#C#\Face Detection And Recognition System\Face Detection And Recognition System\obj\Debug\Face Detection And Recognition System.csproj.GenerateResource.Cache
+C:\Users\MR\Desktop\#C#\Face Detection And Recognition System\Face Detection And Recognition System\obj\Debug\Face Detection And Recognition System.exe
+C:\Users\MR\Desktop\#C#\Face Detection And Recognition System\Face Detection And Recognition System\obj\Debug\Face Detection And Recognition System.pdb
+C:\Users\MR\Desktop\#C#\Face Detection And Recognition System\Face Detection And Recognition System\obj\Debug\Face_Detection_And_Recognition_System.Form1.resources
+C:\Users\MR\Desktop\#C#\Face Detection And Recognition System\Face Detection And Recognition System\obj\Debug\Face_Detection_And_Recognition_System.frmKisiEkle.resources
+C:\Users\MR\Desktop\#C#\Face Detection And Recognition System\Face Detection And Recognition System\obj\Debug\Face_Detection_And_Recognition_System.frmKisiGoruntuleDuzenleSil.resources
+C:\Users\MR\Desktop\#C#\Face Detection And Recognition System\Face Detection And Recognition System\obj\Debug\Face_Detection_And_Recognition_System.frmFotografYukle.resources
+C:\Users\MR\Desktop\Face Detection And Recognition System\Face Detection And Recognition System\bin\Debug\Face Detection And Recognition System.exe.config
+C:\Users\MR\Desktop\Face Detection And Recognition System\Face Detection And Recognition System\obj\Debug\Face Detection And Recognition System.exe
+C:\Users\MR\Desktop\Face Detection And Recognition System\Face Detection And Recognition System\obj\Debug\Face Detection And Recognition System.pdb
+C:\Users\cemre\Desktop\Face Detection And Recognition System\Face Detection And Recognition System\bin\Debug\Face Detection And Recognition System.exe.config
+C:\Users\cemre\Desktop\Face Detection And Recognition System\Face Detection And Recognition System\obj\Debug\Face Detection And Recognition System.exe
+C:\Users\cemre\Desktop\Face Detection And Recognition System\Face Detection And Recognition System\obj\Debug\Face Detection And Recognition System.pdb
+C:\Users\cemre\Desktop\Face Detection And Recognition System\Face Detection And Recognition System\bin\Debug\Face Detection And Recognition System.exe
+C:\Users\cemre\Desktop\Face Detection And Recognition System\Face Detection And Recognition System\bin\Debug\Face Detection And Recognition System.pdb
+C:\Users\cemre\Desktop\Face Detection And Recognition System\Face Detection And Recognition System\bin\Debug\MetroFramework.dll
+C:\Users\cemre\Desktop\Face Detection And Recognition System\Face Detection And Recognition System\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\cemre\Desktop\Face Detection And Recognition System\Face Detection And Recognition System\obj\Debug\Face_Detection_And_Recognition_System.frmFotografYukle.resources
+C:\Users\cemre\Desktop\Face Detection And Recognition System\Face Detection And Recognition System\obj\Debug\Face_Detection_And_Recognition_System.frmKisiEkle.resources
+C:\Users\cemre\Desktop\Face Detection And Recognition System\Face Detection And Recognition System\obj\Debug\Face_Detection_And_Recognition_System.Properties.Resources.resources
+C:\Users\cemre\Desktop\Face Detection And Recognition System\Face Detection And Recognition System\obj\Debug\Face Detection And Recognition System.csproj.GenerateResource.Cache
+C:\Users\cemre\Desktop\Face Detection And Recognition System\Face Detection And Recognition System\obj\Debug\Face_Detection_And_Recognition_System.FrmPrincipal.resources
+C:\Users\cemre\Desktop\Face Detection And Recognition System\Face Detection And Recognition System\obj\Debug\Face Detection And Recognition System.csprojResolveAssemblyReference.cache
+C:\Users\cemre\Desktop\Face Detection And Recognition System\Face Detection And Recognition System\obj\Debug\Face_Detection_And_Recognition_System.kullaniciControl.resources
